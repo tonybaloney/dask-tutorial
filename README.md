@@ -12,7 +12,7 @@ Dask is a parallel and distributed computing library that scales the existing Py
 
 #### 1. You should clone this repository
 
-    git clone http://github.com/dask/dask-tutorial
+    git clone http://github.com/tonybaloney/dask-tutorial
 
 and then install necessary packages.
 There are three different ways to achieve this, pick the one that best suits you, and ***only pick one option***.
